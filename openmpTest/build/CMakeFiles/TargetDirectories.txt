@@ -1,0 +1,3 @@
+/home/xjturm/rmtest/openmpTest/build/CMakeFiles/rebuild_cache.dir
+/home/xjturm/rmtest/openmpTest/build/CMakeFiles/main.dir
+/home/xjturm/rmtest/openmpTest/build/CMakeFiles/edit_cache.dir
